@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Fernando Lazcano Cardenas 
+### Hi there  I'm Fernando Lazcano Cardenas 
 
 
 **fernandolazcar/fernandolazcar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
