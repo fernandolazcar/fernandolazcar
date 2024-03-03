@@ -6,5 +6,5 @@ Hola soy Economista Financiero por parte de la UNAM, amo el análisis de informa
 
 ### Aficiones 
 
-![alt text](UNAM/ponencia .pdf)
+![alt text]([UNAM/ponencia .pdf](https://github.com/fernandolazcar/info-Fernando/blob/6ead4aa994f84c8936df4cd06264d420fc74368c/UNAM/ponencia%20.pdf)https://github.com/fernandolazcar/info-Fernando/blob/6ead4aa994f84c8936df4cd06264d420fc74368c/UNAM/ponencia%20.pdf)
 
