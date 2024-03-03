@@ -8,11 +8,13 @@ Hi i'm a Finantial Economist from the UNAM, i love the analysis of informativon 
 
 #### Aficiones 
 
+<!-- Copy-paste in your Readme.md file -->
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=68726268" target="_blank" style="display: block" align="center">
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=151691453" target="_blank" style="display: block" align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=68726268&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @AkuraDiary" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=68726268&image_size=auto&color_scheme=light" width="771" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=151691453&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @fernandolazcar" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=151691453&image_size=auto&color_scheme=light" width="771" height="auto">
   </picture>
 </a>
 
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
