@@ -6,5 +6,5 @@ Hola soy Economista Financiero por parte de la UNAM, amo el análisis de informa
 
 ### Aficiones 
 
-![alt text]([UNAM/ponencia .pdf](https://github.com/fernandolazcar/info-Fernando/blob/6ead4aa994f84c8936df4cd06264d420fc74368c/UNAM/ponencia%20.pdf)https://github.com/fernandolazcar/info-Fernando/blob/6ead4aa994f84c8936df4cd06264d420fc74368c/UNAM/ponencia%20.pdf)
+![](https://th.bing.com/th/id/R.98eef5af5a19d7080845fe51311d957f?rik=Zl7Frh%2b5bpFi2w&riu=http%3a%2f%2f1.bp.blogspot.com%2f-zKX8CREi3QY%2fT2OMZgW3s6I%2fAAAAAAAAWzg%2f5sFH754c6sw%2fs1600%2fLos-mas-Hermosos-Paisajes-Naturales_04.jpg&ehk=A5duiR2F2V2mfQjbuU33wpthxZXzqvPo5UMVfvokH9Y%3d&risl=&pid=ImgRaw&r=0)
 
