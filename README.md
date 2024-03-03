@@ -7,7 +7,6 @@ Hola soy Economista Financiero por parte de la UNAM, amo el análisis de informa
 Hi, I am a Financial Economist from the National Autonomous University of Mexico (UNAM). I love analyzing information related to economic, statistical, mathematical, stock market, political, and programming studies, among others. I consider myself a simple person who enjoys making new friends, so if you have something interesting to share, feel free to reach out to me.” 🌟🤝📊📈🌐
 
 
-#### Aficiones 
 
 
 
