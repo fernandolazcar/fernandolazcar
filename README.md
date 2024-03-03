@@ -11,3 +11,9 @@ A & B
 &alpha;
 1 < 2
 <p>
+
+
+Puedes colocar [^1] notas en el pie de página [^2] fácilmente.
+[^1]: Aquí encuentras el texto de la nota al pie de página.
+[^2]: **Las notas de pie de página** pueden *formatearse* también.
+Estas pueden ocupar varias líneas.
