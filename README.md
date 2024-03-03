@@ -6,5 +6,5 @@ Hola soy Economista Financiero por parte de la UNAM, amo el análisis de informa
 
 ### Aficiones 
 
-![alt text](assets/image_file.extension)
+![alt text](UNAM/ponencia .pdf)
 
