@@ -5,3 +5,9 @@ Hola que tal soy Fernando Lazcano Cárdenas soy Economista Financiero por parte 
 
 
 
+*Texto en cursiva*
+_Texto en cursiva_
+**Texto en negrita**
+__Texto en negrita__
+***Texto en cursiva y negrita***
+___Texto en cursiva y negrita___
