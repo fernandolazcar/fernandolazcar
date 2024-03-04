@@ -17,7 +17,8 @@
             <td align="justify">Hi, I am a Financial Economist from the National Autonomous University of Mexico (UNAM). I love analyzing information related to economic, statistical, mathematical, stock market, political, and programming studies, among others. I consider myself a simple person who enjoys making new friends, so if you have something interesting to share, feel free to reach out to me.” 🌟🤝📊📈🌐 </td>
 </table>
 
-
+---
+#### Estadisticas
 <div align="center">  
   <img width="870em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fernandolazcar&theme=rose_pine" /> 
  
