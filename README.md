@@ -29,11 +29,19 @@
 </div> 
 
 ---
-ejemplo videos de youtube
+#### Videos de youtube 
 
-[![ejemplo](https://img.youtube.com/vi/ggG9ySCChYw/0.jpg)](https://youtu.be/ggG9ySCChYw?si=Rd55ldwdp-xrwbOu)
-[![ejemplo](https://img.youtube.com/vi/ggG9ySCChYw/0.jpg)](https://youtu.be/ggG9ySCChYw?si=Rd55ldwdp-xrwbOu)
-
+<div style="display: flex; justify-content: space-between;">
+    <a href="https://youtu.be/OZTA6wZfe6E?si=UEI9e_qU2bbTtzR7">
+        <img src="https://img.youtube.com/vi/OZTA6wZfe6E/maxresdefault.jpg" alt="Video 1" style="width: 200px;">
+    </a>
+    <a href="https://youtu.be/IZm7hoxW_ys?si=hVROM3EtgmyngwO6">
+        <img src="https://img.youtube.com/vi/IZm7hoxW_ys/maxresdefault.jpg" alt="Video 1" style="width: 200px;">
+    </a>
+    <a href="https://youtu.be/zUUMOijEqKA?si=dK0z02GCQUBrC9NP">
+        <img src="https://img.youtube.com/vi/zUUMOijEqKA/maxresdefault.jpg" alt="Video 1" style="width: 200px;">
+    </a>
+</div>
 
 ---
 
