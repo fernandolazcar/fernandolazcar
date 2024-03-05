@@ -41,7 +41,14 @@
 </div>
 
 
-
+<div style="text-align: center;">
+    <a href="https://github.com/fernandolazcar/info-Fernando/tree/main">
+        <img src="https://github.com/fernandolazcar/info-Fernando/blob/main/GIF/gif.gif" alt="GIF de gato jugando" width="400" height="300" style="margin-left: 20px;">
+    </a>
+    <a href="https://github.com/fernandolazcar/portafolio">
+        <img src="https://github.com/fernandolazcar/portafolio/blob/main/GIF/Copia%20de%20Dise%C3%B1o%20sin%20t%C3%ADtulo.gif" alt="GIF de gato jugando" width="400" height="300" style="margin-left: 20px;">
+    </a>
+</div>
 
 ---
 #### Videos de Youtube 
