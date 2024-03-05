@@ -29,6 +29,15 @@
 </div> 
 
 ---
+#### adicional
+
+
+ <a href="https://github.com/fernandolazcar/info-Fernando/tree/main">
+        <img src="https://github.com/fernandolazcar/info-Fernando/blob/main/GIF/gif.gif" alt="GIF de gato jugando" width="500" height="400">
+ </a>
+
+
+---
 #### Videos de Youtube 
 
 <div style="display: flex; justify-content: space-between;">
