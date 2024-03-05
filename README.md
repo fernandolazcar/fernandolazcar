@@ -29,7 +29,7 @@
 </div> 
 
 ---
-#### adicional
+#### Centificados, Diplomas, Reconocimientos y Trabajos 
 
 <div style="text-align: center;">
     <a href="https://github.com/fernandolazcar/info-Fernando/tree/main">
