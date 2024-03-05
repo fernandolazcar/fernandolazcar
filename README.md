@@ -33,7 +33,7 @@
 
 
  <a href="https://github.com/fernandolazcar/info-Fernando/tree/main">
-        <img src="https://github.com/fernandolazcar/info-Fernando/blob/main/GIF/gif.gif" alt="GIF de gato jugando" width="500" height="400">
+        <img src="https://github.com/fernandolazcar/info-Fernando/blob/main/GIF/gif.gif" alt="GIF de gato jugando" width="400" height="300">
  </a>
 
 
