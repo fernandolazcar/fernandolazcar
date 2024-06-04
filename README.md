@@ -56,7 +56,7 @@ and together let's make money 🤑💸💰💳😈
         <img src="https://img.youtube.com/vi/IZm7hoxW_ys/maxresdefault.jpg" alt="Video 1" style="width: 300px;">
     </a>
     <a href="https://youtu.be/gq87XQSVsqI?si=x99rxpV6z5rClOAq">
-        <img src="https://img.youtube.com/vi/IZm7hoxW_ys/maxresdefault.jpg" alt="Video 1" style="width: 300px;">
+        <img src="https://img.youtube.com/vi/gq87XQSVsqI/maxresdefault.jpg" alt="Video 1" style="width: 300px;">
 </div>
 
 ---
