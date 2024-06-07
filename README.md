@@ -50,13 +50,13 @@ and together let's make money 🤑💸💰💳😈
 
 <div style="display: flex; justify-content: space-between;">
     <a href="https://youtu.be/OZTA6wZfe6E?si=UEI9e_qU2bbTtzR7">
-        <img src="https://img.youtube.com/vi/OZTA6wZfe6E/maxresdefault.jpg" alt="Video 1" style="width: 300px;">
+        <img src="https://img.youtube.com/vi/OZTA6wZfe6E/maxresdefault.jpg" alt="Video 1" style="width: 250px;">
     </a>
     <a href="https://youtu.be/IZm7hoxW_ys?si=hVROM3EtgmyngwO6">
-        <img src="https://img.youtube.com/vi/IZm7hoxW_ys/maxresdefault.jpg" alt="Video 1" style="width: 300px;">
+        <img src="https://img.youtube.com/vi/IZm7hoxW_ys/maxresdefault.jpg" alt="Video 1" style="width: 250px;">
     </a>
     <a href="https://youtu.be/gq87XQSVsqI?si=XERCyLKd0pxE0hw4">
-        <img src="https://img.youtube.com/vi/gq87XQSVsqI/maxresdefault.jpg" alt="Video 1" style="width: 300px;">
+        <img src="https://img.youtube.com/vi/gq87XQSVsqI/maxresdefault.jpg" alt="Video 1" style="width: 250px;">
 </div>
 
 ---
